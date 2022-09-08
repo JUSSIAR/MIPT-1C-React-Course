@@ -53,3 +53,10 @@ O_final = 0.7 * O_homework + 0.3 * O_exam
 - O_final - итоговая оценка за курс
 - O_homework - draft: средняя по дз
 - O_exam - оценка за экзамен
+
+### Ссылки и благодарности
+
+Большое спасибо [Valery Statinov](https://github.com/ValeryStatinov)
+за предоставленные материалы!
+Некоторые составляющие и примеры этого курса заимствованы 
+из аналогичного курса от [Valery Statinov](https://github.com/ValeryStatinov).
