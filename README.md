@@ -7,6 +7,11 @@
 в разработке фронтенда с помощью фреймворка ReactJS.
 
 
+### Контакты преподавателя
+
+[Connections](https://github.com/JUSSIAR/JUSSIAR/blob/main/connection.md)
+
+
 ### Программа курса
 
 1) Вводная лекция,
