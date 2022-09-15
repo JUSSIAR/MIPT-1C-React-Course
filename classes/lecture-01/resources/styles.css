@@ -1,0 +1,52 @@
+.parent1 > .child1 {
+  color: blue;
+}
+
+.parent1 .child1 {
+  background-color: palevioletred;
+}
+
+.parent1 > .sub-child1 {
+  background-color: peachpuff;
+}
+
+.child1 ~ .child1 {
+  border-radius: 5px;
+}
+
+.child1, .sub-child1 {
+  border: 2px solid black;
+}
+
+[href*='pp'] {
+  color: blue;
+}
+
+.child1:first-child {
+  text-decoration: underline;
+}
+
+.child1:first-child:hover {
+  color: yellow;
+}
+
+.pseudo-examples {
+  background-color: #a8a8a8;
+  padding: 30px;
+}
+
+.item {
+  margin-top: 10px;
+  height: 40px;
+  width: 200px;
+}
+
+.item:nth-child(even) {
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.item:not(:last-child) {
+  color: red;
+}
+
