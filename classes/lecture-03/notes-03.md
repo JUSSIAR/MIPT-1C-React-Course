@@ -1,0 +1,1 @@
+https://tinkoff.zoom.us/j/96214618471?pwd=VE4xRXUrUldmY0dHQXNvUmNLc3BoUT09
