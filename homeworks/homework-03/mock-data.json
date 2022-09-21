@@ -1,26 +1,26 @@
 [
   {
-    "header": "Tesla",
+    "title": "Tesla",
     "text": "Best company",
     "currentLikes": 7
   },
   {
-    "header": "VK",
+    "title": "VK",
     "text": "Messenger for children",
     "currentLikes": 2
   },
   {
-    "header": "Me",
+    "title": "Me",
     "text": "Best student",
     "currentLikes": 999
   },
   {
-    "header": "Item",
+    "title": "Item",
     "text": "Some other item",
     "currentLikes": 0
   },
   {
-    "header": "Real article",
+    "title": "Real article",
     "text": "Real text for real article",
     "currentLikes": 11
   }
