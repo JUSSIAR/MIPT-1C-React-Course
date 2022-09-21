@@ -1,0 +1,27 @@
+[
+  {
+    "header": "Tesla",
+    "text": "Best company",
+    "currentLikes": 7
+  },
+  {
+    "header": "VK",
+    "text": "Messenger for children",
+    "currentLikes": 2
+  },
+  {
+    "header": "Me",
+    "text": "Best student",
+    "currentLikes": 999
+  },
+  {
+    "header": "Item",
+    "text": "Some other item",
+    "currentLikes": 0
+  },
+  {
+    "header": "Real article",
+    "text": "Real text for real article",
+    "currentLikes": 11
+  }
+]
