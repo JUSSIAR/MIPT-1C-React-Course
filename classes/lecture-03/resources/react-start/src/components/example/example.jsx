@@ -15,6 +15,7 @@ const pow2 = x => x * x
  * @see props object decomposition
  */
 export function Example({value}) {
+    // Making content string
     const content = `Value = ${value}; Value ^ 2 = ${pow2(value)}`
 
     return (
