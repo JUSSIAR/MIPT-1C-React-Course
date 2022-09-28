@@ -1,0 +1,22 @@
+[
+  {
+    "text": "Text 1",
+    "color": "red"
+  },
+  {
+    "text": "Text 2",
+    "color": "green"
+  },
+  {
+    "text": "Text 3",
+    "color": "yellow"
+  },
+  {
+    "text": "Text 4",
+    "color": "orange"
+  },
+  {
+    "text": "Text 5",
+    "color": "purple"
+  }
+]
