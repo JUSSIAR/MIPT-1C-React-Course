@@ -1,0 +1,32 @@
+[
+  {
+    "author": "Sofa",
+    "articleId": 33,
+    "text": "Comment comment comment"
+  },
+  {
+    "author": "Ivan",
+    "articleId": 5,
+    "text": "Random text from Ivan"
+  },
+  {
+    "author": "Oleg",
+    "articleId": 5,
+    "text": "Long text long text long text long text long text long text"
+  },
+  {
+    "author": "Roman",
+    "articleId": 33,
+    "text": "Short text"
+  },
+  {
+    "author": "Bob",
+    "articleId": 16,
+    "text": "Short text from Bob"
+  },
+  {
+    "author": "Roman",
+    "articleId": 11,
+    "text": "Short text from Frank + random random random"
+  }
+]

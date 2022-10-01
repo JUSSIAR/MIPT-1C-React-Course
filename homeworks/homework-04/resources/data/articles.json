@@ -1,0 +1,37 @@
+[
+  {
+    "articleId": 11,
+    "title": "Tesla",
+    "text": "Best company",
+    "currentLikes": 7,
+    "commentsCount": 1
+  },
+  {
+    "articleId": 5,
+    "title": "VK",
+    "text": "Messenger for children",
+    "currentLikes": 2,
+    "commentsCount": 2
+  },
+  {
+    "articleId": 72,
+    "title": "Me",
+    "text": "Best student",
+    "currentLikes": 999,
+    "commentsCount": 0
+  },
+  {
+    "articleId": 33,
+    "title": "Item",
+    "text": "Some other item",
+    "currentLikes": 0,
+    "commentsCount": 2
+  },
+  {
+    "articleId": 16,
+    "title": "Real article",
+    "text": "Real text for real article",
+    "currentLikes": 11,
+    "commentsCount": 1
+  }
+]
