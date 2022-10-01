@@ -13,6 +13,6 @@ export function MyComponent() {
     }, [])
 
     return data
-        ? <div> NO DATA </div>
-        : <div> {data} </div>
+        ? <div> {data} </div>
+        : <div> NO DATA </div>
 }
