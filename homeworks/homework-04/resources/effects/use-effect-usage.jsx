@@ -1,5 +1,5 @@
 // Здесь приведен пример использования useEffect
-// для реализации запроса сразу по аналогии с componentDidMount
+// для реализации запроса после маунтинга по аналогии с componentDidMount
 
 import React, {useState, useEffect} from 'react'
 
