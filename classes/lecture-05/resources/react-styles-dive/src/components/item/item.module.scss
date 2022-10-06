@@ -1,0 +1,28 @@
+@import "../../common/styles/vars.module.scss";
+@import "../../common/styles/mixins.module.scss";
+
+.item {
+  width: 50px;
+  height: 30px;
+  border-radius: 10px;
+
+  &-light {
+    background-color: $lightSecondaryColor;
+  }
+
+  &-dark {
+    background-color: $darkSecondaryColor;
+  }
+}
+
+.text {
+  @include fontSettings(32);
+
+  &-light {
+    color: $lightPrimaryColor;
+  }
+
+  &-dark {
+    color: $darkPrimaryColor;
+  }
+}

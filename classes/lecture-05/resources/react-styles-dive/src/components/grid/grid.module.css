@@ -1,0 +1,24 @@
+.container {
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: 1fr 1fr;
+
+  margin: 30px;
+  padding: 10px;
+
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: silver;
+}
+
+
+.item {
+  width: 50px;
+  height: 30px;
+
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: white;
+}
+

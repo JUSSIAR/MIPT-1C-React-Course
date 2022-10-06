@@ -1,0 +1,4 @@
+@mixin fontSettings($size: 20) {
+  font-weight: bold;
+  font-size: $size;
+}

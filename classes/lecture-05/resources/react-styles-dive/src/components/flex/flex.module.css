@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  /*flex-direction: column-reverse;*/
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+
+  margin: 30px;
+  padding: 10px;
+
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: silver;
+
+  /*width: 1000px;*/
+  /*height: 100px;*/
+}
+
+.item1,
+.item2 {
+  min-width: 200px;
+  height: 30px;
+
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.item1 {
+  flex: 1;
+}
+
+.item2 {
+  flex: 1;
+}
