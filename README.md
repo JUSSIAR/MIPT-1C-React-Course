@@ -20,7 +20,8 @@
 2) Лекция 2: JS, NodeJS
 3) Лекция 3: ReactJS
 4) Лекция 4: React Lifecycle
-5) ...
+5) Лекция 5: node-sass, classnames
+6) ...
 
 
 ### Структура репозитория курса
