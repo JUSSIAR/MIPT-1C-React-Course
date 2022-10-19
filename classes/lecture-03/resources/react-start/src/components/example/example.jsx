@@ -1,6 +1,6 @@
 import React from 'react'
 
-// JSON Data import data-changes
+// JSON Data import model-changes
 import data from '../../assets/data.json'
 
 // Imports CSS module as JS object
@@ -10,7 +10,7 @@ import s from './example.module.css'
 const pow2 = x => x * x
 
 /**
- * Functional Component data-changes
+ * Functional Component model-changes
  * Power 2 task
  * @see props object decomposition
  */
