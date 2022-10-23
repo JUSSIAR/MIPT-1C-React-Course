@@ -12,3 +12,8 @@
 - Event Loop(поверхностно)
 - Изоляция работы с макро и микро тасками в WebAPI(NodeAPI)
 - Кейсы работы с контекстом в JS
+
+
+#### Полезное:
+
+https://developer.mozilla.org/ru/docs/Web/JavaScript/EventLoop
