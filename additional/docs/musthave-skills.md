@@ -22,3 +22,13 @@
 ### CSS/SCSS
 
 - Модульные стили (file.module.css) и профит от их использования
+
+
+### Redux
+
+- TODO
+
+
+### Router
+
+- TODO

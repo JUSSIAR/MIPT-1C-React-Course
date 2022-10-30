@@ -18,7 +18,7 @@
 
 ### Флоу сдачи дз
 
-[Flow](../../additional/homework-flow.md)
+[Flow](../../additional/docs/homework-flow.md)
 
 
 ### Дедлайны
