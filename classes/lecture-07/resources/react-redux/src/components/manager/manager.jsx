@@ -1,6 +1,6 @@
 import React from 'react'
 import classnames from 'classnames/bind'
-import { connect } from 'react-redux'
+import { connect } from 'react-router'
 
 import { actionChangeTheme } from '../../common/store/actions/changeTheme.js'
 import { actionChangeData } from '../../common/store/actions/changeData.js'

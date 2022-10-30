@@ -1,1 +1,1 @@
-# React-start
+# React-redux-practice

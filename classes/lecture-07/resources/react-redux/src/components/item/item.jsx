@@ -1,6 +1,6 @@
 import React from 'react'
 import classnames from 'classnames/bind'
-import { connect } from 'react-redux'
+import { connect } from 'react-router'
 
 import s from './item.module.scss'
 
