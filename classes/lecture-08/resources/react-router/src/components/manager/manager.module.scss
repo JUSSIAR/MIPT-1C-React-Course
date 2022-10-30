@@ -1,0 +1,25 @@
+@import "../../common/styles/vars.module.scss";
+
+.manager {
+  width: 250px;
+  height: 30px;
+  border-radius: 10px;
+
+  &-light {
+    background-color: $lightSecondaryColor;
+  }
+
+  &-dark {
+    background-color: $darkSecondaryColor;
+  }
+}
+
+.text {
+  &-light {
+    color: $lightPrimaryColor;
+  }
+
+  &-dark {
+    color: $darkPrimaryColor;
+  }
+}

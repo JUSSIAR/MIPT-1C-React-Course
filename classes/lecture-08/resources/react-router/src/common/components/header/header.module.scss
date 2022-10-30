@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  height: 8vh;
+
+  padding: 0 50px;
+  margin: 0;
+
+  background-color: #dddddd;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+  width: 40%;
+  height: 100%;
+
+  font-size: 22px;
+}

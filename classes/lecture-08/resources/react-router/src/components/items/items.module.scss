@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+  height: 20vh;
+  width: 100%;
+}
+
+.link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 35px;
+  width: 400px;
+
+  font-size: 22px;
+  text-decoration: none;
+
+  color: #282c34;
+  background-color: #a8a8a8;
+
+  border-radius: 10px;
+}
+
+@media (hover: hover) {
+  .link:hover {
+    background-color: #d9d9d9;
+  }
+}
