@@ -16,4 +16,6 @@
 
 #### Полезное:
 
-https://developer.mozilla.org/ru/docs/Web/JavaScript/EventLoop
+- Неплохая статья в переводе для понимания concurrency в js:
+    
+    https://developer.mozilla.org/ru/docs/Web/JavaScript/EventLoop
