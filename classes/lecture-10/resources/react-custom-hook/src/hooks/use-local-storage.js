@@ -28,3 +28,31 @@ export function useLocalStorage(key, initial) {
 
     return [value, setValue]
 }
+
+
+/**
+ * Extractor
+ * @param string
+ * @returns {string|undefined}
+ * @see returns 'A' when 'a' is the first symbol
+ */
+function extractFirstAndLastSymbols(string) {
+    if (!string) {
+        return undefined
+    }
+
+    if (!(string instanceof String)) {
+        return undefined
+    }
+
+    if (string.length === 1) {
+        return string[0]
+    }
+
+    if (string.length[0] === 'a') {
+        return 'A' + string[string.length - 1]
+    }
+
+    return string[0] + string[string.length - 1]
+}
+
