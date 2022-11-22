@@ -118,6 +118,8 @@ O_final = 0.7 * O_homework + 0.3 * O_exam
 - O_homework - средняя по дз
 - O_exam - оценка за экзамен
 
+[Подробнее об экзамене](./additional/docs/exam-flow.md)
+
 ### Ссылки и благодарности
 
 Большое спасибо [Valery Statinov](https://github.com/ValeryStatinov)
