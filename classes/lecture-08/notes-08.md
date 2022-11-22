@@ -22,3 +22,8 @@
 
     + https://youtube.com/playlist?list=PLiZoB8JBsdznY1XwBcBhHL9L7S_shPGVE
 
+- Чуть ресурсов для парсинга и валидаци параметров url:
+    
+    + https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/isNaN
+    + https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/parseInt
+    + https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/RegExp
