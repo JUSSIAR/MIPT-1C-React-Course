@@ -24,9 +24,9 @@
 6) Лекция 6: Advanced JS, ReactJS
 7) Лекция 7: Redux
 8) Лекция 8: React-router
-9) Лекция 9: Async
-10) Лекция 10: Fetch
-11) Лекция 11: Auth & Exploit
+9) Лекция 9: Async & Fetch
+10) Лекция 10: Auth & Exploit
+11) Лекция 11: Testing & CI stages
 12) Лекция 12: Экзамен, заключительная
 
 
